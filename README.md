@@ -1,4 +1,9 @@
+
 # Covid_Vaccinations_Data_Analysis_R
+
+![alt text](https://github.com/Poulinakis-Konstantinos/Covid_Vaccinations_Data_Analysis_R/blob/main/Graphs/pop_vs_ratio.png)
+
+
 
 You can find information about the dataset on this link https://cran.r-project.org/web/packages/coronavirus/coronavirus.pdf . 
 
