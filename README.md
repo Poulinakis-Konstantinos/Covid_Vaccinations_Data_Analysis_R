@@ -8,4 +8,7 @@ The goal was to conduct an exploratory analysis using R, exctract knowledge from
 All the insights gained from the analysis are conveyed through well curated graphs, created using ggplot2 library. 
 
 
-#### The repository contains code in .r file and a .pdf report documenting all the insights gained from the analysis and giving explanations about the graphs.
+#### The repository contains 
+- code in covid_vaccine_project.R  file .
+- PDF report in  Vaccination-Data-Analysis.pdf documenting all the insights gained from the analysis and explaning the graphs further.
+- Graphs folder containing all the plots in .png format.
