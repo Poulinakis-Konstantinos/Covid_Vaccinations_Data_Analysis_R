@@ -18,3 +18,9 @@ All the insights gained from the analysis are conveyed through well curated grap
 - code in covid_vaccine_project.R  file .
 - PDF report in  Vaccination-Data-Analysis.pdf documenting all the insights gained from the analysis and explaning the graphs further.
 - Graphs folder containing all the plots in .png format.
+
+
+</br>
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lcze8ixhv6zatdsj6qil" alt="trackgit-views" />
+</a>
